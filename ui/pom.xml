@@ -41,8 +41,9 @@
                         <Private-Package></Private-Package>
                         <Sling-Nodetypes>SLING-INF/nodetypes/nodetypes.cnd</Sling-Nodetypes>
                         <Sling-Initial-Content>
-                            jcr_root/apps/hippie;overwrite:=true;uninstall:=true;path:=/apps/hippie,
-                            jcr_root/content/hippie;overwrite:=false;overwriteProperties:=true;uninstall:=false;path:=/content/hippie,
+                            jcr_root/apps/hippie-magic;overwrite:=true;uninstall:=true;path:=/apps/hippie-magic,
+                            jcr_root/content/hippie-magic;overwrite:=false;overwriteProperties:=true;uninstall:=false;path:=/content/hippie-magic,
+                            jcr_root/etc/hippie-magic;overwrite:=true;uninstall:=true;path:=/etc/hippie-magic
                         </Sling-Initial-Content>
                     </instructions>
                 </configuration>

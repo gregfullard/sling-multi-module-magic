@@ -1,0 +1,6 @@
+{
+    "jcr:primaryType" : "nt:unstructured",
+    "jcr:title" : "Hippie Magic",
+    "jcr:description" : "Hippie Magic",
+    "sling:resourceType" : "hippie-magic/home"
+}

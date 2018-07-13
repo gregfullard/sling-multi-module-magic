@@ -1,0 +1,10 @@
+{
+    "jcr:primaryType" : "sling:Folder",
+    "index" :
+    {
+    "jcr:primaryType" : "nt:unstructured",
+    "jcr:title" : "Sub Node",
+    "jcr:description" : "Sub Node",
+    "sling:resourceType" : "hippie-magic/home"
+	}
+}

@@ -19,11 +19,11 @@
 
 <!--
     Defines which repository items are generally included
-    
+
     See https://jackrabbit.apache.org/filevault/filter.html for details
 -->
 <workspaceFilter vesion="1.0">
-    <filter root="/content/hippie"/>
-    <filter root="/apps/hippie"/>
+    <filter root="/content/hippie-magic"/>
+    <filter root="/apps/hippie-magic"/>
     <filter root="/etc"/>
 </workspaceFilter>
